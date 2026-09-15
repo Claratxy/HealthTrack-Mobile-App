@@ -15,7 +15,14 @@ has happened. An optional menstrual-cycle tracking module can be enabled from Se
 notifications remind users when a medicine dose or appointment is approaching.
 
 ## Visual Design
-
+### Main Page
+| Home | Calendar | Health Item | Health Record | Menstrual Cycle | Profile | 
+|------|----------|-------------|---------------|-----------------|---------|
+<img src="screenshots/HomePage.jpg" width="220" /> | <img src="screenshots/CalendarPage.jpg" width="200" /> | <img src="screenshots/HealthItemPage.jpg" width="220" /> | <img src="screenshots/HealthRecordPage.jpg" width="220" /> | <img src="screenshots/MenstrualCyclePage.jpg" width="220" /> | <img src="screenshots/ProfilePage.jpg" width="200" />
+### Sub Page
+| MedicalForm | AppointmentForm | HealthRecordForm | EditProfileForm |
+|-------------|-----------------|------------------|-----------------|
+<img src="screenshots/MedicalForm.jpg" width="180" /> |  <img src="screenshots/AppointmentForm.jpg" width="200" /> | <img src="screenshots/HealthRecordForm.jpg" width="220" /> | <img src="screenshots/EditProfileForm.jpg" width="220" /> 
 
 ## Setup Instructions
 

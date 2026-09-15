@@ -1,6 +1,4 @@
 # HealthTrack 
-Developed as a final project for [CM3050 Mobile Development].
-
 A personal health organisation and reminder mobile application built with React Native and Expo.
 
 **Live Expo Snack:** https://snack.expo.dev/@claratan/mdfinal-healthtrack
@@ -15,6 +13,9 @@ to log out. A Home dashboard shows today's activities, a full year/month/day Cal
 activities by date, and a unified Timeline shows a chronological history of everything that
 has happened. An optional menstrual-cycle tracking module can be enabled from Settings. Local
 notifications remind users when a medicine dose or appointment is approaching.
+
+## Visual Design
+
 
 ## Setup Instructions
 
